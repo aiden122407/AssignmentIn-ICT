@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body {
+			  background-image: url(Cloud.jpg)
+			}
+			</style>
+	</head>
+  </body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,
+                   initial-scale=1.0">
+    <title>Links Using Html</title>
+    <style>
+        h1 {
+            margin-top: 12px;
+            text-align: center;
+            font-size: 50px;
+            font-family: 'century gothic';  
+            color: #ffffcc;
+            text-shadow: 0 0 5px #fff,
+                0 0 10px #fff,
+                0 0 20px rgb(18, 157, 199),
+                0 0 30px rgb(57, 21, 104),
+                0 0 40px green,
+                0 0 55px rgb(255, 38, 38),
+                0 0 70px green;
+        }
+    </style>
+</head>
+<body>
+  <h1>Activity In ICT 1&2</h1>
+  <h1>The Links!</h1>
+  <hr>
+  <body>
+	<a href="https://www.youtube.com/" target="_blank">Youtube</a>
+	   
+	</a> <br> <br><br><br>
+	
+<a href="https://www.facebook.com/" target="_blank">
+	<img src="images.png" width="100">
+</a> <br> <br> <br> <br> 
+<a href="https://myaccount.google.com/?utm_source=OGB&utm_medium=app" target="_blank">
+  <img src="gmail.png" height=100>
+</a> <br> <br> <br> <br> <br><hr>
+
+
+
+<center>
+  <!-- The image has scrolling behavior to left -->
+  <marquee behavior="scroll" direction="right">
+	  <h1>Submitted By Dhanjelo Daine Avila</h1>         
+</body>
+</html>
